@@ -73,13 +73,6 @@ A personal finance tracking web application built with **React** and **Firebase*
 
 ---
 
-## Demo 📽️
-
-> A live demo link (if deployed) can be placed here. For example:
-> [https://your-domain.com](https://your-domain.com)   *(replace with actual hosting URL)*
-
----
-
 ## Technology Stack 🛠️
 
 * **React 16.x** (Create React App)
