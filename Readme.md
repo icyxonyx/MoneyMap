@@ -108,7 +108,7 @@ A personal finance tracking web application built with **React** and **Firebase*
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/moneymap.git
+   git clone https://github.com/icyxonyx/MoneyMap.git
    cd moneymap
    ```
 
